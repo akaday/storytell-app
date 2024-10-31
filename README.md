@@ -1,4 +1,10 @@
 # Storytell App
+## Support
+
+If you find this project helpful, consider buying me a coffee! Your support is greatly appreciated.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-yellow)](https://paypal.me/barki0)
+
 uvicorn backend.api.app:app --reload
 INFO:     Will watch for changes in these directories: ['C:\\Users\\start\\storytell-app']
 INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
